@@ -2665,7 +2665,6 @@ cameraRaw	Roughness	Неровность
 	Cone - Inverted	Конус - инвертированный
 	Cove - Deep	Бухта - глубокая
 	Cove - Shallow	Бухта - мелкая
-	Gaussian	Гауссова
 	Half Round	Полукруг
 	Ring	Кольцо
 	Ring - Double	Кольцо - двойное
@@ -3073,7 +3072,6 @@ curves	Smooth	Сгладить
 	Legal	Legal
 	Letter	Letter
 	Linear Height	Линейная высота
-	Link with Layer	Связать со слоем
 	Lorem Ipsum	Lorem Ipsum
 	Magentas	Пурпурные
 	Measurement Scale	Шкала измерений
